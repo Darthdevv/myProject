@@ -1,3 +1,3 @@
 # Validation form
-this is a validation form with html , css and javascript
+this is a validation form with HTML , CSS and javascript
 
